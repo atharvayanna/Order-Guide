@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide_items">
+    <sc_cat_item_guide_items action="INSERT_OR_UPDATE">
+        <condition/>
+        <guide display_value="Project Team Onboarding">6fa84f6bc3eacb90ae099e1d0501315a</guide>
+        <ignore_mandatory_eval>false</ignore_mandatory_eval>
+        <item display_value="Project SharePoint Site">a2ffeffbc3220310ae099e1d0501313b</item>
+        <order/>
+        <quantity>1</quantity>
+        <requested_by/>
+        <requested_for/>
+        <show_quantity>false</show_quantity>
+        <sys_class_name>sc_cat_item_guide_items</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-14 05:45:37</sys_created_on>
+        <sys_id>4fdab7b3c3a20310ae099e1d05013159</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a2ffeffbc3220310ae099e1d0501313b</sys_name>
+        <sys_package display_value="Order_Guide_App" source="x_2052756_order_0">e9e8766bc36acb90ae099e1d05013129</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Order_Guide_App">e9e8766bc36acb90ae099e1d05013129</sys_scope>
+        <sys_update_name>sc_cat_item_guide_items_4fdab7b3c3a20310ae099e1d05013159</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-14 05:45:37</sys_updated_on>
+        <use_sc_layout>true</use_sc_layout>
+    </sc_cat_item_guide_items>
+</record_update>
