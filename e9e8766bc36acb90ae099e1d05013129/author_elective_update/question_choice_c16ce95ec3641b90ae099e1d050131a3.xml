@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="Employee Role">350ced9ac3641b90ae099e1d0501313e</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 13:35:27</sys_created_on>
+        <sys_id>c16ce95ec3641b90ae099e1d050131a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DevOps Engineer</sys_name>
+        <sys_package display_value="Order_Guide_App" source="x_2052756_order_0">e9e8766bc36acb90ae099e1d05013129</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Order_Guide_App">e9e8766bc36acb90ae099e1d05013129</sys_scope>
+        <sys_update_name>question_choice_c16ce95ec3641b90ae099e1d050131a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 13:35:27</sys_updated_on>
+        <text>DevOps Engineer</text>
+        <value>devops</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=c16ce95ec3641b90ae099e1d050131a3"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Order_Guide_App">e9e8766bc36acb90ae099e1d05013129</application>
+        <file_path/>
+        <instance_id>67c7d298eb6047d0e483f459bad0cde5</instance_id>
+        <instance_name>dev390973</instance_name>
+        <name>question_choice_c16ce95ec3641b90ae099e1d050131a3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>300</order><published_ref/><question display_value="Employee Role">350ced9ac3641b90ae099e1d0501313e</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-11-16 13:35:27</sys_created_on><sys_id>c16ce95ec3641b90ae099e1d050131a3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DevOps Engineer</sys_name><sys_package display_value="Order_Guide_App" source="x_2052756_order_0">e9e8766bc36acb90ae099e1d05013129</sys_package><sys_policy/><sys_scope display_value="Order_Guide_App">e9e8766bc36acb90ae099e1d05013129</sys_scope><sys_update_name>question_choice_c16ce95ec3641b90ae099e1d050131a3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-11-16 13:35:27</sys_updated_on><text>DevOps Engineer</text><value>devops</value></question_choice><fx_price action="delete_multiple" query="id=c16ce95ec3641b90ae099e1d050131a3"/></record_update>]]></payload>
+        <payload_hash>604126280</payload_hash>
+        <record_name>DevOps Engineer</record_name>
+        <reverted_from/>
+        <source>897b44dac368d790ae099e1d0501315d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 13:35:27</sys_created_on>
+        <sys_id>678c619ec3641b90ae099e1d05013155</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1e491e0d10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 13:35:27</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>278c619e0f641b907b60744fdcb3ef54</update_guid>
+        <update_guid_history>278c619e0f641b907b60744fdcb3ef54:604126280</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="DevOps Engineer">9cea206fc3a89310ae099e1d050131a3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-20 06:00:55</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>058611a6733b45a0806055cd2fe69040</sys_id>
+        <sys_metadata>c16ce95ec3641b90ae099e1d050131a3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DevOps Engineer</sys_name>
+        <sys_package display_value="Order_Guide_App" source="x_2052756_order_0">e9e8766bc36acb90ae099e1d05013129</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Order_Guide_App">e9e8766bc36acb90ae099e1d05013129</sys_scope>
+        <sys_scope_delete display_value="">120f1c60b65b4dbc855c3acbc1e33ab9</sys_scope_delete>
+        <sys_update_name>question_choice_c16ce95ec3641b90ae099e1d050131a3</sys_update_name>
+        <sys_update_version display_value="question_choice_c16ce95ec3641b90ae099e1d050131a3">678c619ec3641b90ae099e1d05013155</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-20 06:00:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

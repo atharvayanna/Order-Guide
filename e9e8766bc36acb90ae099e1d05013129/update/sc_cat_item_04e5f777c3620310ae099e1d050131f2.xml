@@ -15,7 +15,7 @@
         <description/>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow display_value="Jira story creation flow (V2)">8a36af2e470e479011b3a22f316d4339</flow_designer_flow>
+        <flow_designer_flow display_value="PTO_Collaboration_channel_Approval">5f4355a4c3070b10ae099e1d050131bb</flow_designer_flow>
         <fulfillment_automation_level>unspecified</fulfillment_automation_level>
         <group/>
         <hide_sp>false</hide_sp>
@@ -67,21 +67,21 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-08-14 05:21:36</sys_created_on>
         <sys_id>04e5f777c3620310ae099e1d050131f2</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Collaboration Channel</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Order_Guide_App">e9e8766bc36acb90ae099e1d05013129</sys_scope>
         <sys_update_name>sc_cat_item_04e5f777c3620310ae099e1d050131f2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-08-14 05:27:33</sys_updated_on>
+        <sys_updated_on>2026-09-07 06:09:55</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>1</version>
+        <version>3</version>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>

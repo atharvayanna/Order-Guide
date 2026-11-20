@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Database Client">b508d962c3e01310ae099e1d0501319f</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-17 06:56:01</sys_created_on>
+        <sys_id>0aba112ac3e01310ae099e1d050131da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DB Weaver</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Order_Guide_App">e9e8766bc36acb90ae099e1d05013129</sys_scope>
+        <sys_update_name>question_choice_0aba112ac3e01310ae099e1d050131da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-17 06:56:01</sys_updated_on>
+        <text>DB Weaver</text>
+        <value>db_weaver</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=0aba112ac3e01310ae099e1d050131da"/>
+</record_update>

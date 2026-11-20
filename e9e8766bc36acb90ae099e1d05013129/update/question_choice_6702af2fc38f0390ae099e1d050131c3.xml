@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Jira Project">5642377fc3220310ae099e1d05013100</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-07 05:47:02</sys_created_on>
+        <sys_id>6702af2fc38f0390ae099e1d050131c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vendor Management</sys_name>
+        <sys_package display_value="Order_Guide_App" source="x_2052756_order_0">e9e8766bc36acb90ae099e1d05013129</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Order_Guide_App">e9e8766bc36acb90ae099e1d05013129</sys_scope>
+        <sys_update_name>question_choice_6702af2fc38f0390ae099e1d050131c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-07 05:47:02</sys_updated_on>
+        <text>Vendor Management</text>
+        <value>vendor_management</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=6702af2fc38f0390ae099e1d050131c3"/>
+</record_update>

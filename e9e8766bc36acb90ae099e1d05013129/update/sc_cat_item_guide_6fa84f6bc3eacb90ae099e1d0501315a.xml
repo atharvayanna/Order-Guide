@@ -13,7 +13,26 @@
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description/>
+        <description><![CDATA[<h1>Project Team Provisioning / Onboarding</h1>
+<hr />
+<h2>Welcome</h2>
+<p>Provision all essential tools, access, and collaboration resources required for a new project team through a single, standardized request. This Order Guide simplifies project onboarding by combining multiple service requests into one submission, ensuring faster delivery and consistent governance.</p>
+<hr />
+<h2>Services Included</h2>
+<ul style="list-style-position: inside;"><li>Project SharePoint Site – Create a dedicated SharePoint site for project documentation and collaboration.</li><li>Jira / Azure DevOps Access – Request project access with the appropriate role for team members.</li><li>Cloud Environment Access – Provision access to AWS, Azure, or GCP environments.</li><li>Database Access – Request secure read/write access to project databases.</li><li>Collaboration Channels – Create Microsoft Teams or Slack channels and add project members.</li><li>Security &amp; Compliance Approvals – Initiate required security reviews and approval workflows.</li></ul>
+<hr />
+<h2>What You&#39;ll Need</h2>
+<p>Before submitting your request, please have the following information available:</p>
+<ul style="list-style-position: inside;"><li>Project Name</li><li>Project Code / ID</li><li>Project Manager</li><li>Business Unit</li><li>Environment (Development, Test, UAT, Production)</li><li>Team Members (if applicable)</li><li>Project Start Date</li><li>Project End Date</li><li>Business Justification</li></ul>
+<hr />
+<h2>Benefits</h2>
+<ul style="list-style-position: inside;"><li>Accelerates project kickoff and team onboarding</li><li>Standardizes project provisioning across the organization</li><li>Captures all required approvals in a single workflow</li><li>Reduces manual effort and duplicate requests</li><li>Improves governance, compliance, and audit readiness</li><li>Provides end-to-end visibility of provisioning status</li></ul>
+<hr />
+<h2>Process Overview</h2>
+<p>Submit Order Guide → Required Approvals → Resource Provisioning → Notifications → Project Team Ready</p>
+<hr />
+<h3>Thank You</h3>
+<p>Thank you for using the Project Team Provisioning / Onboarding Order Guide. Our automated workflows will route your request to the appropriate teams and keep you informed throughout the provisioning process.</p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
@@ -71,14 +90,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-08-13 07:26:18</sys_created_on>
         <sys_id>6fa84f6bc3eacb90ae099e1d0501315a</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_name>Project Team Onboarding</sys_name>
         <sys_package display_value="Order_Guide_App" source="x_2052756_order_0">e9e8766bc36acb90ae099e1d05013129</sys_package>
         <sys_policy/>
         <sys_scope display_value="Order_Guide_App">e9e8766bc36acb90ae099e1d05013129</sys_scope>
         <sys_update_name>sc_cat_item_guide_6fa84f6bc3eacb90ae099e1d0501315a</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2026-08-14 05:55:41</sys_updated_on>
+        <sys_updated_on>2026-10-15 05:48:16</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
@@ -87,7 +106,7 @@
         <use_sc_layout>true</use_sc_layout>
         <validator/>
         <vendor/>
-        <version>6</version>
+        <version>18</version>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>

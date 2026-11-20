@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="341edddec3e01b90ae099e1d0501311d" label="Projects" max_length="40" name="x_2052756_order_0_projects" type="collection">
+        <element label="Project Manager" mandatory="true" max_length="32" name="project_manager" reference="sys_user" type="reference"/>
+        <element label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element choice="1" label="Active" mandatory="true" max_length="40" name="active" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" value="yes"/>
+                <element inactive_on_update="false" label="No" value="no"/>
+            </choice>
+        </element>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element choice="1" label="Project Status" mandatory="true" max_length="40" name="project_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cancelled" value="cancelled"/>
+                <element inactive_on_update="false" label="Completed" value="completed"/>
+                <element inactive_on_update="false" label="Planning" value="planning"/>
+                <element inactive_on_update="false" label="Active" value="active"/>
+                <element inactive_on_update="false" label="On Hold" value="on_hold"/>
+            </choice>
+        </element>
+        <element label="Project Description" max_length="40" name="project_description" type="string"/>
+        <element display="true" label="Project Name" mandatory="true" max_length="40" name="project_name" type="string"/>
+        <index name="index">
+            <element name="project_manager"/>
+        </index>
+    </element>
+</database>

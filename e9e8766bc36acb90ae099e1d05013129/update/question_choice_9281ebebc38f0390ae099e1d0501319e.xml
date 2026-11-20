@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="SharePoint Site ">e7503f3fc3220310ae099e1d0501316d</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-07 05:44:46</sys_created_on>
+        <sys_id>9281ebebc38f0390ae099e1d0501319e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SNOW_Jira</sys_name>
+        <sys_package display_value="Order_Guide_App" source="x_2052756_order_0">e9e8766bc36acb90ae099e1d05013129</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Order_Guide_App">e9e8766bc36acb90ae099e1d05013129</sys_scope>
+        <sys_update_name>question_choice_9281ebebc38f0390ae099e1d0501319e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-07 05:44:46</sys_updated_on>
+        <text>SNOW_Jira</text>
+        <value>snow_jira</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=9281ebebc38f0390ae099e1d0501319e"/>
+</record_update>
